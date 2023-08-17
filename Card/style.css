@@ -1,0 +1,42 @@
+body{
+  background-image: url(crs20_streak.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+
+.card{
+  background: #94B3B3;
+  width: 350px;
+  margin: 0px auto;
+  border-radius: 15px 15px 15px 15px;
+ 
+}
+
+.name,.ocupation{
+  text-align: center;
+  max-width: 90%;
+  margin: 4px auto 8px auto;
+  font-family: sans-serif;
+}
+.text{
+  text-align: justify;
+  width: 80%;
+  margin: 0px auto 40px auto;
+  font-family: sans-serif;
+  font-size: 17px;
+}
+
+.header,.content{
+  padding: 0px 30px 20px 30px;
+}
+
+#topimg{
+  border-radius: 15px 15px 0px 0px;
+}
+
+#profileimg{
+  display: block;
+  border-radius: 100%;
+  margin: -65px auto 10px auto;
+}

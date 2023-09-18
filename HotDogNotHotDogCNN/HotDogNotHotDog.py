@@ -42,22 +42,69 @@ valid_ds = valid_ds.cache().batch(batch_size).prefetch(tf.data.AUTOTUNE)
 for image_batch, label_batch in train_ds.take(1):
   print(image_batch)
   print(label_batch)
+    
 
 #Neural net implementation
+
+data_augmentation = tf.keras.Sequential([
+    tf.keras.layers.RandomFlip('horizontal'),
+    tf.keras.layers.RandomRotation(0.2)
+])
+
+for i,_ in ds["train"].take(1):
+  image = i
+
+plt.imshow(image)
+
+image = tf.cast(tf.expand_dims(image, 0), tf.float32)
+image /= 255.0
+
+plt.figure(figsize=(10, 10))
+for i in range(9):
+  augmented_image = data_augmentation(image)
+  ax = plt.subplot(3,3, i+1)
+  plt.imshow(augmented_image[0])
+  plt.axis("off")
 
 random.seed(0)
 model = models.Sequential()
 model.add(layers.Rescaling(1./255))
-model.add(layers.Conv2D(128,(3,3), activation='relu', input_shape=[MAX_SIDE_LEN,MAX_SIDE_LEN,3]))
+model.add(data_augmentation)
+model.add(layers.Conv2D(64,(3,3), activation='relu', input_shape=[MAX_SIDE_LEN,MAX_SIDE_LEN,3]))
 model.add(layers.MaxPooling2D(2,2))
-model.add(layers.Conv2D(64,(3,3),activation='relu'))
+model.add(layers.Dropout(0.25))
+model.add(layers.Conv2D(64,(3,3),activation='relu', kernel_regularizer=tf.keras.regularizers.l2(l=0.01)))
 model.add(layers.MaxPooling2D(2,2))
-model.add(layers.Conv2D(64,(3,3),activation='relu'))
+model.add(layers.Dropout(0.25))
+model.add(layers.Conv2D(32,(3,3),activation='relu', kernel_regularizer=tf.keras.regularizers.l2(l=0.01)))
 model.add(layers.Flatten())
 model.add(layers.Dense(128, activation='relu'))
+model.add(layers.Dropout(0.25))
 model.add(layers.Dense(1))
 
 lr = 0.0001
 model.compile(optimizer=tf.keras.optimizers.Adam(lr),
               loss=tf.keras.losses.BinaryCrossentropy(from_logits=True),
               metrics=['accuracy'])
+
+epochs = 50
+history = model.fit(
+    train_ds,
+    validation_data= valid_ds,
+    epochs=epochs,
+    verbose=1
+)
+
+plt.figure(figsize=(10,10))
+for iage_batch, label_batch in valid_ds.take(1):
+  images = image_batch
+  labels = label_batch
+
+
+for i in range(9):
+  ax = plt.subplot(3,3, i+1)
+  plt.imshow(images[i])
+  plt.axis("off")
+
+
+labels[:9]

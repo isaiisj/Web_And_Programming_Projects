@@ -56,3 +56,8 @@ model.add(layers.Conv2D(64,(3,3),activation='relu'))
 model.add(layers.Flatten())
 model.add(layers.Dense(128, activation='relu'))
 model.add(layers.Dense(1))
+
+lr = 0.0001
+model.compile(optimizer=tf.keras.optimizers.Adam(lr),
+              loss=tf.keras.losses.BinaryCrossentropy(from_logits=True),
+              metrics=['accuracy'])

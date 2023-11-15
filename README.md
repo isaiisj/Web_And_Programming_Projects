@@ -1,6 +1,8 @@
 # WebProyects
 A little bit of what i've done in my free time for fun
 
-<storng>Card</strong>
+<strong>Card</strong>
+<img>
+<br>
 <strong>Landing Page</strong>
 <img src="LandingPage/landingPlatziCopy.PNG"></img>

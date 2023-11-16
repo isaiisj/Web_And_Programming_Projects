@@ -5,4 +5,4 @@ A little bit of what i've done in my free time for fun
 <img src="Card/Card.PNG">
 <br><br>
 <strong>Landing Page</strong>
-<img src=" "></img>
+<img src="LAndingPage/LandingPage.PNG"></img>

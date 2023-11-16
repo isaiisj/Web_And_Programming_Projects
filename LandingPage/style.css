@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+  }
+  
+  :root{
+    --font--color: #fffff6;
+  }
+  
+  
+  body{
+    background-image: url('https://contxto.com/wp-content/uploads/2019/08/Review-Platzi-Crehana-education-tech.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 0.3rem;
+  }
+  
+  h1,h4, p, label{
+    color: var(--font--color);
+  }
+  div h1{
+    text-shadow: 1px 1px  10px #000;
+    margin-bottom: 1rem;
+  }
+  
+  h4.destacado{
+    text-shadow: 1px 1px  3px #000;
+  }
+  
+  p.pmain{
+    margin-bottom: 2rem;
+  }
+  
+  img{
+    margin: 1.2rem auto;
+  }
+  
+  div.info{
+    margin-top: 2rem;
+  }
+  
+  /*Counter*/
+  .countdown{
+    background-color: #96be25;
+    border-radius: 6px;
+    padding: 0.5rem;
+    height: 60px;
+    box-shadow: 1px 2px 15px #000;
+  }
+  .countp p{
+    font-weight: 600;
+  }
+  #days,#hours,#minutes,#seconds{
+    display: inline-block;
+    color: #fff;
+    font-weight: 700;
+    font-size: 18px;
+  }
+  .cdtext{
+    display: inline-block;
+    color: #fff;
+    font-weight: 600;
+  }
+  
+  /*Destacados*/
+  div.destacados{
+    margin-top: 1.5rem;
+  }
+  
+  /*Form*/
+  div.hfRow{
+    margin-top:1.6rem;
+  }
+  div.formRow{
+    margin: 0 auto 1.5rem 0;
+  }
+  form{
+    /*display: flex;
+    flex-direction: column;
+    justify-content: center;*/
+    gap: 0.8rem;
+  
+  }
+  input{
+    display: inline-block;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    max-width: 1000px;
+    text-align: center;
+  }
+  
+  /*Copyrigth*/
+  .copy{
+    margin-bottom: 1.5rem;
+  }
+  small{
+    color: #fff;
+  }
+  

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Onlie effective eductaion.">
+  <meta name="keywords" content="programming, education, software">
+  <title>Platzi Day</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  </head>
+  
+
+</head>
+
+<body>
+  <div class="container">
+    <div class="row info">
+      <div class="col-sm-12 col-md-6">
+        <p class="text-center">1, 2 y 3 DE DICIEMBRE</p>
+        <h1 class="text-center">¡72 horas de accseso a nuestro contenido web!</h1>
+        <p class="text-center pmain">Disfruta de nuestros cursos, contenido web y más sin necesidad de pagar una suscripción.</p>
+        <div class="countp">
+          <p class="text-center">COMIENZA EN</p>
+        </div>
+        <div class="countdown d-flex justify-content-around align-items-center">
+            <div>
+                <span id="days">00</span>
+                <span class="cdtext">DIAS</span>
+            </div>
+            <div>
+                <span id="hours">00</span>
+                <span class="cdtext">HORAS</span>
+            </div>
+            <div>
+                <span id="minutes">00</span>
+                <span class="cdtext">MINS</span>
+            </div>
+            <div>
+                <span id="seconds">00</span>
+                <span class="cdtext">SECS</span>
+            </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-6">
+          <img src="https://i.blogs.es/5dfc41/logo-platzi-day/1366_2000.jpeg" width="800px" class="img-responsive img-fluid mx-auto rounded" alt="banner">
+      </div>
+    </div>
+    <!--Seccion de destacados-->
+    <div class="row destacados">
+      <div class="d-none d-sm-block">
+        <h4 class="text-center destacado">Cursos destacados</h4>
+      </div>
+      <div class="d-flex flex-wrap justify-content-around">
+        <div>
+          <img src="https://i.ytimg.com/vi/C7NLf7K7hLA/maxresdefault.jpg" alt="curso-progra" width="200px" class="rounded d-none d-sm-block">
+        </div>
+        <div>
+          <img src="https://static.platzi.com/media/learningpath/social/og-apps-android-97885d4c-7e70-4c47-94e1-91cdc804b504.jpg" width="215px" class="rounded d-none d-sm-block">
+        </div>
+        <div>
+          <img src="https://static.platzi.com/media/blog/curso-fundamentos-de-publicidad-e238322c-21db-453c-9737-644fc06bb40f.png" width="200px" class="rounded d-none d-sm-block">
+        </div>
+        <div>
+          <img src="https://pbs.twimg.com/media/FpcFDuRX0AMogSh.jpg" width="210px" height="105px" class="rounded d-none d-sm-block">
+        </div>
+      </div>
+    </div>
+    <!--Seccion de formulario-->
+    <div class="row hfRow">
+      <div class="col-sm-12">
+        <p class="text-center">Ultima oferta del año, registrate ya!</p>
+      </div>
+    </div>
+    <div class="row formRow">
+      <div class="col-sm-0 col-lg-3 "></div>
+      <div class="col-sm-12 col-lg-6">
+        <form  class="d-flex flex-row form-inline">
+              <input type="email" class="form-control nombre" id="InputEmail" aria-describedby="emailHelp" placeholder="Escribe tu correo electrónico" required>
+              <input type="submit" class="btn btn-info registrar form-control" value="Quiero registrarme" onclick="validateEmail()" id="inputEmail">
+        </form>
+      </div>
+      <div class="col-sm-0 col-lg-3"></div>
+    </div>
+    <!--Seccion de redes sociales-->
+    <div class="row">
+      <div class="d-flex flex-row justify-content-center">
+        <div class="p-3"><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="45px"></a></div>
+        <div class="p-3"><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png" width="45px"></a></div>
+        <div class="p-3"><a href="#"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="45px"></a></div>
+        <div class="p-3"><a href="#"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="45px"></a></div>
+      </div>
+    </div>
+  <!--Seccion de copyright-->
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="d-flex p-1 justify-content-center copy">
+        <small>All rights reserved &copy; 2023 Platzi.</small>
+      </div>
+    </div>
+  </div>
+    
+  </div>
+  
+  <script src="script.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
+
+</html>

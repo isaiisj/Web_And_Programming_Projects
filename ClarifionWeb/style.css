@@ -1,0 +1,78 @@
+*{
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+  }
+
+  /*Upper bar*/
+  .ubar{
+    background-color: #494b4f;
+    width: 100%;
+    padding: 0.9rem  3px;
+  }
+  .htext{
+    font-size: 0.7rem;
+    color: #fff;
+    text-align: center;
+  }
+
+  /*Logos bar*/
+  div.logos{
+    padding: 1.5rem 0;
+  }
+  img > .logoc{
+    display:inline-block;
+    width: 12rem;
+    height: 2.3rem;
+  }
+  img > .logon{
+    display:inline-block;
+    width: 5rem;
+    height: 1.9rem;
+    
+  }
+  img > .logom{
+    display:inline-block;
+    width: 5rem;
+    height: 1.8rem;
+  }
+
+  /*Check bar*/
+  div.check{
+    padding: 2rem 0;
+  }
+
+  /*Main content*/
+  div.main{
+    padding: 2rem 2rem;
+  }
+  div.buyer{
+    padding: 2rem .5rem;
+  }
+  img.product{
+    width: 30rem;
+  }
+  p.ptext{
+    font-size: 2rem;
+  }
+
+  button.discount{
+    padding: 1rem 5rem;
+    border-radius: 30px;
+    background-color: #4af753;
+    border-style: none;
+    margin: 0.5rem auto;
+  }
+
+  /*Low bar*/
+
+  div.lbar{
+    background-color: #494b4f;
+    width: 100%;
+    padding: 1.8rem  3px;
+  }
+  .ftext{
+    font-size: 1rem;
+    color: #fff;
+    text-align: center;
+  }

@@ -5,7 +5,7 @@ A little bit of what i've done in my free time for fun
 <img src="Card/Card.PNG">
 <br><br>
 <strong>Clarifion Web</strong>
-<img src="ClarifionWeb/Clarifion Upsell.PNG">
+<img src="ClarifionWeb/Clarifion Upsell.png">
 <br>
 <strong>Landing Page</strong>
 <img src="LandingPage/LandingPage.PNG"></img>

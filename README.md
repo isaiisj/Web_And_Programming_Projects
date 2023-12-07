@@ -1,11 +1,11 @@
 # WebProyects
 A little bit of what i've done in my free time for fun
 
-<strong>Card</strong>
+<p><strong>Card</strong></p>
 <img src="Card/Card.PNG">
 <br><br>
-<strong>Clarifion Web</strong>
+<p><strong>Clarifion Web</strong></p>
 <img src="ClarifionWeb/Clarifion Upsell.png">
 <br>
-<strong>Landing Page</strong>
+<p><strong>Landing Page</strong></p>
 <img src="LandingPage/LandingPage.PNG"></img>

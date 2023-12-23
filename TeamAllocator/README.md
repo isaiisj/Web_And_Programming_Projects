@@ -3,5 +3,5 @@ This project pick two teams and a captain for each team. When you run the progra
 captains on the screen.
 <br>
 This project use Python's <b>random</b> module to form teams with randomly slected players. Using lists to store
-the player's names.The random module then shuffle the list into a different order.Loops will be used to iterate through
-the list and display the players.Finally an iif statement checks to see if the user is happy with the selection.
+the player's names.The <b>random</b> module then shuffle the list into a different order.Loops will be used to iterate through
+the list and display the players.Finally an <b>if</b> statement checks to see if the user is happy with the selection.

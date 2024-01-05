@@ -3,5 +3,6 @@ A Gantt chart is a type of bar chart that is used to illustrate the schedule of 
 The tasks to be performed are listed on the y axis and the tie periods are listed on the x axis.
 Horizontal bars on the graph display the duration of each activity.
 <br>
+<br>
 
 <img src="ProjectPlanner.PNG">

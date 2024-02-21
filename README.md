@@ -11,4 +11,4 @@ A little bit of what i've done in my free time for fun
 <img src="LandingPage/LandingPage.PNG"></img>
 
 <p><strong>Project Planner</strong></p>
-<img src="ProjectPlanner.PNG">
+<img src="ProjectPlanner/ProjectPlanner.PNG">

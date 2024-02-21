@@ -9,3 +9,6 @@ A little bit of what i've done in my free time for fun
 <br>
 <p><strong>Landing Page</strong></p>
 <img src="LandingPage/LandingPage.PNG"></img>
+
+<p><strong>Project Planner</strong></p>
+<img src="ProjectPlanner.PNG">

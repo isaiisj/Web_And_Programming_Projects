@@ -11,4 +11,4 @@ will be converted into a chart that will display when each task starts and ends.
 <br>
 
 <img src="ProjectPlanner.PNG">
-<img src="PPH.PNG">
+<img src="PPH.JPG">

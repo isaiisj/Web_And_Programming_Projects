@@ -11,7 +11,8 @@ A little bit of what like personal projects, free time projects, work projects o
 <img src="LandingPage/LandingPage.PNG"></img>
 
 <h2>Pet Shop Web Site</h2>
-<img src="PetShop/PetShop.PNG">
+<a href="https://boisterous-griffin-2d08f4.netlify.app/">Link to visualize int Netlify</a>
+<img src="PetShop/PetShop.JPG">
 
 <h2>Project Planner</h2>
 <img src="ProjectPlanner/ProjectPlanner.PNG">

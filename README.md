@@ -4,14 +4,14 @@ A little bit of what like personal projects, free time projects, work projects o
 <img src="Card/Card.PNG">
 <br><br>
 <h2>Clarifion Web</h2>
-<a href="https://656007e042fc21673ca5d43d--mellifluous-speculoos-311a65.netlify.app/">Link to visualize in Netlify</a>
+<a href="https://656007e042fc21673ca5d43d--mellifluous-speculoos-311a65.netlify.app/">Link to visualize</a>
 <img src="ClarifionWeb/Clarifion Upsell.png">
 <br>
 <h2>Landing Page</h2>
 <img src="LandingPage/LandingPage.PNG"></img>
 
 <h2>Pet Shop Web Page</h2>
-<a href="https://boisterous-griffin-2d08f4.netlify.app/">Link to visualize int Netlify</a>
+<a href="https://boisterous-griffin-2d08f4.netlify.app/">Link to visualize</a>
 <img src="PetShopWebPage/PetShop.JPG">
 
 <h2>Project Planner</h2>

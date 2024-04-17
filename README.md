@@ -1,6 +1,5 @@
 <h1>Web and Programming projects</h1>
-A little bit of what i've done in my free time for fun or things I've done for someone else.
-
+A little bit of what like personal projects, free time projects, work projects or projects just for fun.
 <h2>Card</h2>
 <img src="Card/Card.PNG">
 <br><br>

@@ -10,9 +10,9 @@ A little bit of what like personal projects, free time projects, work projects o
 <h2>Landing Page</h2>
 <img src="LandingPage/LandingPage.PNG"></img>
 
-<h2>Pet Shop Web Site</h2>
+<h2>Pet Shop Web Page</h2>
 <a href="https://boisterous-griffin-2d08f4.netlify.app/">Link to visualize int Netlify</a>
-<img src="PetShop/PetShop.JPG">
+<img src="PetShopWebPage/PetShop.JPG">
 
 <h2>Project Planner</h2>
 <img src="ProjectPlanner/ProjectPlanner.PNG">

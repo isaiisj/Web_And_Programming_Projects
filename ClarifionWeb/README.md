@@ -1,2 +1,1 @@
-Web link to view the web page
-https://656007e042fc21673ca5d43d--mellifluous-speculoos-311a65.netlify.app/
+<a href="https://656007e042fc21673ca5d43d--mellifluous-speculoos-311a65.netlify.app/"> Link to visualize in netlify</a>

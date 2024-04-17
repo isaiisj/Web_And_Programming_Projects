@@ -5,7 +5,7 @@ A little bit of what i've done in my free time for fun or things I've done for s
 <img src="Card/Card.PNG">
 <br><br>
 <h2>Clarifion Web</h2>
-<a href="https://656007e042fc21673ca5d43d--mellifluous-speculoos-311a65.netlify.app/">Link to visualize in netlify</a>
+<a href="https://656007e042fc21673ca5d43d--mellifluous-speculoos-311a65.netlify.app/">Link to visualize in Netlify</a>
 <img src="ClarifionWeb/Clarifion Upsell.png">
 <br>
 <p><strong>Landing Page</strong></p>

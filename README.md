@@ -10,5 +10,8 @@ A little bit of what like personal projects, free time projects, work projects o
 <h2>Landing Page</h2>
 <img src="LandingPage/LandingPage.PNG"></img>
 
+<h2>Pet Shop Web Site</h2>
+<img src="PetShop/PetShop.PNG">
+
 <h2>Project Planner</h2>
 <img src="ProjectPlanner/ProjectPlanner.PNG">

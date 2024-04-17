@@ -1,4 +1,4 @@
-# WebProyects
+<h1>Web and Programming projects</h1>
 A little bit of what i've done in my free time for fun
 
 <p><strong>Card</strong></p>

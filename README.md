@@ -7,7 +7,7 @@ A little bit of what like personal projects, free time projects, work projects o
 <a href="https://656007e042fc21673ca5d43d--mellifluous-speculoos-311a65.netlify.app/">Link to visualize</a>
 <img src="ClarifionWeb/Clarifion Upsell.png">
 <br>
-<h2>Landing Page</h2>
+<h2>Platzi Landing Page</h2>
 <img src="LandingPage/LandingPage.PNG"></img>
 
 <h2>Pet Shop Web Page</h2>

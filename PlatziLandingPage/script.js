@@ -1,4 +1,4 @@
-let targetDate = new Date("2023-12-01T23:59:59");
+let targetDate = new Date("2026-12-01T23:59:59");
 let countdownInterval;
 
 function startCountdown() {

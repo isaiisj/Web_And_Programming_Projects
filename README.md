@@ -4,7 +4,7 @@ A little bit of what like personal projects, free time projects, work projects o
 <img src="Card/Card.PNG">
 <br>
 <h2>Clarifion Web</h2>
-<a href="https://656007e042fc21673ca5d43d--mellifluous-speculoos-311a65.netlify.app/">Link to visualize</a>
+<a href="https://clarifionweb.netlify.app/">Link to visualize</a>
 <img src="ClarifionWeb/Clarifion Upsell.png">
 <br>
 <h2>Platzi Landing Page</h2>

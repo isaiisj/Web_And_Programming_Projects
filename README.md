@@ -8,7 +8,7 @@ A little bit of what like personal projects, free time projects, work projects o
 <img src="ClarifionWeb/Clarifion Upsell.png">
 <br>
 <h2>Platzi Landing Page</h2>
-<img src="LandingPage/LandingPage.PNG"></img>
+<img src="PlatziLandingPage/LandingPage.PNG"></img>
 
 <h2>Pet Shop Web Page</h2>
 <a href="https://boisterous-griffin-2d08f4.netlify.app/">Link to visualize</a>

@@ -2,12 +2,13 @@
 A little bit of what like personal projects, free time projects, work projects or projects just for fun.
 <h2>Card</h2>
 <img src="Card/Card.PNG">
-<br><br>
+<br>
 <h2>Clarifion Web</h2>
 <a href="https://656007e042fc21673ca5d43d--mellifluous-speculoos-311a65.netlify.app/">Link to visualize</a>
 <img src="ClarifionWeb/Clarifion Upsell.png">
 <br>
 <h2>Platzi Landing Page</h2>
+<a href="https://tranquil-kleicha-7efa2d.netlify.app/">Link to visualize</a>
 <img src="PlatziLandingPage/LandingPage.PNG"></img>
 
 <h2>Pet Shop Web Page</h2>

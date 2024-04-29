@@ -9,7 +9,7 @@ A little bit of what like personal projects, free time projects, work projects o
 <br>
 <h2>Courses Landing Page Responsive</h2>
 <a href="https://courseslandingpage.netlify.app/">Link to visualize</a>
-<img src="CoursesResponsiveLandingPage/CoursesResponsiveLanding.JPG">
+<img src="CoursesLandingPageResponsive/CoursesResponsiveLanding.JPG">
 <br>
 <h2>Platzi Landing Page</h2>
 <a href="https://platzilandingpage.netlify.app/">Link to visualize</a>

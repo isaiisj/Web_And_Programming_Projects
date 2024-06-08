@@ -1,6 +1,7 @@
 <h1>Web and Programming projects</h1>
 A little bit of what like personal projects, free time projects, work projects or projects just for fun.
 <h2>Caesar's Cipher</h2>
+<a href="https://caesarsciphergui.netlify.app/">Link to visualize</a>
 <img src="CaesarsCipher/CaesarsCipher.PNG">
 <br>
 <h2>Card</h2>

@@ -18,10 +18,13 @@ A little bit of what like personal projects, free time projects, work projects o
 <h2>Platzi Landing Page</h2>
 <a href="https://platzilandingpage.netlify.app/">Link to visualize</a>
 <img src="PlatziLandingPage/LandingPage.PNG"></img>
-
+<br>
 <h2>Pet Shop Web Page</h2>
 <a href="https://boisterous-griffin-2d08f4.netlify.app/">Link to visualize</a>
 <img src="PetShopWebPage/PetShop.JPG">
-
+<br>
 <h2>Project Planner</h2>
 <img src="ProjectPlanner/ProjectPlanner.PNG">
+<br>
+<h2>Travel Now Responisve Site</h2>
+<img src="TravelNowSite/TravelNow.PNG">

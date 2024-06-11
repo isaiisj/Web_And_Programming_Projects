@@ -28,3 +28,4 @@ A little bit of what like personal projects, free time projects, work projects o
 <br>
 <h2>Travel Now Responisve Site</h2>
 <img src="TravelNowSite/TravelNow.PNG" style="width:500px;">
+<img src="travelNowSite/TravelNow2.PNG" style="width:400px;">

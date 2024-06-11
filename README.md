@@ -27,4 +27,4 @@ A little bit of what like personal projects, free time projects, work projects o
 <img src="ProjectPlanner/ProjectPlanner.PNG">
 <br>
 <h2>Travel Now Responisve Site</h2>
-<img src="TravelNowSite/TravelNow.PNG" style="width:200px;">
+<img src="TravelNowSite/TravelNow.PNG" style="width:500px;">

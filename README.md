@@ -27,6 +27,7 @@ A little bit of what like personal projects, free time projects, work projects o
 <img src="ProjectPlanner/ProjectPlanner.PNG">
 <br>
 <h2>Travel Now Responisve Site</h2>
+<a src="https://travelnowsite.netlify.app/">Link to visualize</a>
 <img src="TravelNowSite/TravelNow.PNG">
 
 

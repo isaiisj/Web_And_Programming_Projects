@@ -1,11 +1,11 @@
 <h1>Travel Now Responsive Site</h1>
 <img src="TravelNow.PNG">
+<h2>Desktop view</h2>
 <figure>
   <img src="TravelNow.PNG">
-  <caption>Desktop view</caption>
 </figure>
+<h2>Mobile view</h2>
 <figure>
   <img src="TravelNow2.PNG">
-  <caption>Mobile view</caption>
 </figure>
 

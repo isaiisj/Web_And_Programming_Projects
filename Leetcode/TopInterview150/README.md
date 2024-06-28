@@ -7,5 +7,8 @@
 <li>189.Rotate Array</li>
 <li>121.Best Time to Buy and Sell Stock</li>
 <br>
+<storng>Two Pointers</storng>
+<li>125.Valid Palindrome</li>
+<br>
 <storng>Binary Search</storng>
 <li>35.Search Insert Position</li>

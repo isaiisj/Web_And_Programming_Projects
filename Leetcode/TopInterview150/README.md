@@ -11,5 +11,5 @@
 <h3>Two Pointers</h3>
 <li>125. Valid Palindrome</li>
 <br>
-<storng>Binary Search</storng>
+<h3>Binary Search</h3>
 <li>35. Search Insert Position</li>

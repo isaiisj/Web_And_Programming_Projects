@@ -1,5 +1,5 @@
 <h1>Top Interview 150</h1>
-<strong>Strings/Arrays</storng>
+<h3>Strings/Arrays</h3>
 <li>88. Merge Sorted Array</li>
 <li>27. Remove Element</li>
 <li>26. Remove Duplicates from Sorted Array</li>

@@ -7,9 +7,7 @@
 <li>169. Majority Element</li>
 <li>189. Rotate Array</li>
 <li>121. Best Time to Buy and Sell Stock</li>
-<br>
 <h3>Two Pointers</h3>
 <li>125. Valid Palindrome</li>
-<br>
 <h3>Binary Search</h3>
 <li>35. Search Insert Position</li>

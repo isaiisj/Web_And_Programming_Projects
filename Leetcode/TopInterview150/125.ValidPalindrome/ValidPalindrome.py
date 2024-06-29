@@ -45,3 +45,7 @@ class Solution(object):
             else:
                 return False
         return True
+
+'''
+Time complexity: O(n)
+'''

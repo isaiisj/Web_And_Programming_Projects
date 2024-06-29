@@ -9,5 +9,6 @@
 <li>121. Best Time to Buy and Sell Stock</li>
 <h3>Two Pointers</h3>
 <li>125. Valid Palindrome</li>
+<li>392. Is Subsequence</li>
 <h3>Binary Search</h3>
 <li>35. Search Insert Position</li>

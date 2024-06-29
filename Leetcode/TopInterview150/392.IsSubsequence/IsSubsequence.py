@@ -29,8 +29,8 @@ class Solution(object):
         lenInp = len(s) #letters on s
         count = 0 #should find the same nubmer as len(t)
         
-        #While there are letters in t to search
-        while j < len(t):
+        #While there are letters in s and t to search
+        while i < len(s) and j < len(t):
             #if they're equal
             if s[i] == t[j]:
                 i += 1 #move p1 to the right

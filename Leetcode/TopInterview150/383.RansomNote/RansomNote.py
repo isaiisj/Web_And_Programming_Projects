@@ -30,14 +30,14 @@ class Solution(object):
         dict1 = {}
         dict2 = {}
 
-        #proced to fill dict1
+        #proced to fill dict1 with ransomNote
         for i in ransomNote:
             if i in dict1:
                 dict1[i] += 1
             else:
                 dict1[i] = 1
 
-        #proced to fill dict2
+        #proced to fill dict2 with magazine
         for j in magazine:
             if j in dict2:
                 dict2[j] += 1

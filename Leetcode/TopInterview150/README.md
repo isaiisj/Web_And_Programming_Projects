@@ -12,5 +12,6 @@
 <li>392. Is Subsequence</li>
 <h3>Hashmap</h3>
 <li>383. Ransom Note</li>
+<li>242. Valid Anagram</li>
 <h3>Binary Search</h3>
 <li>35. Search Insert Position</li>

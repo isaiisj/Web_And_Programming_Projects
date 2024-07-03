@@ -13,6 +13,13 @@ Example 2:
 
 Input: s = "axc", t = "ahbgdc"
 Output: false
+
+
+Constraints:
+
+0 <= s.length <= 100
+0 <= t.length <= 104
+s and t consist only of lowercase English letters.
 '''
 class Solution(object):
     def isSubsequence(self, s, t):

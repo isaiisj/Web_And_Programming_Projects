@@ -17,6 +17,12 @@ Example 3:
 
 Input: ransomNote = "aa", magazine = "aab"
 Output: true
+
+
+Constraints:
+
+1 <= ransomNote.length, magazine.length <= 105
+ransomNote and magazine consist of lowercase English letters.
 '''
 
 class Solution(object):

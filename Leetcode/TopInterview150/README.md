@@ -14,5 +14,7 @@
 <li>383. Ransom Note</li>
 <li>242. Valid Anagram</li>
 <li>1. Two Sum</li>
+<h3>Stack</h3>
+<li>20. Valid Parentheses</li>
 <h3>Binary Search</h3>
 <li>35. Search Insert Position</li>

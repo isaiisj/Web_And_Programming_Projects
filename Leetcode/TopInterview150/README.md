@@ -4,6 +4,7 @@
 <h3>Two Pointers</h3>
 <li>125. Valid Palindrome</li>
 <li>392. Is Subsequence</li>
+<li>167. Two Sum II - Input Array Is Sorted</li>
 <h3>Hashmap</h3>
 <li>383. Ransom Note</li>
 <li>242. Valid Anagram</li>

@@ -1,6 +1,7 @@
 <h1>Top Interview 150</h1>
-<h3>Strings/Arrays</h3>
+<h3>Array/String</h3>
 <li>88. Merge Sorted Array</li>
+<li>26. Remove Duplicates from Sorted Array</li>
 <h3>Two Pointers</h3>
 <li>125. Valid Palindrome</li>
 <li>392. Is Subsequence</li>

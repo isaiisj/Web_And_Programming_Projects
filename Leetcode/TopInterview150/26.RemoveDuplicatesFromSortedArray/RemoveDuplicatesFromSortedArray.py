@@ -73,7 +73,7 @@ class Solution(object):
 
             #if the value is repeated
             if nums[p1] == nums[p2]:
-                p2 += 1 #just keep moving the pointer
+                p2 += 1 #just keep moving the pointer two
             else:
                 p1 += 1 #first move the pointer one
                 nums[p1] = nums[p2] #assign p1 <- p2

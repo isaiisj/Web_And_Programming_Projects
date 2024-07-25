@@ -15,10 +15,7 @@
     <li>283. Move Zeroes</li>
   </ul>
 </ul>
-<h4>Extra problems</h4>
-<ul>
-  <li>283. Move Zeroes</li>
-</ul>
+
 
 <h3>Sliding Window</h3>
 <ul>

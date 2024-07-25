@@ -30,7 +30,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        #Create 2 pointers at the end and auxiliary variable
+        #Create 2 pointers at the beginning and auxiliary variable
         p1 = 0
         p2 = 0
         aux = 0

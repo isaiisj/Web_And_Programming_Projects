@@ -35,7 +35,8 @@
 </ul>
 
 <h3>Binary Search</h3>
-<h3>Extra Problems</h3>
+<h3>Math</h3>
+<h4>Extra Problems</h4>
 <ul>
   <li>204. Count Primes</li>
 </ul>

@@ -49,7 +49,7 @@ class Solution(object):
                 p1 += 1 #move p1
             p2 += 1 #move p2
         
-        return 
+        return nums
         
 '''
 Time complexity: O(n)

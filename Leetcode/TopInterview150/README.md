@@ -19,6 +19,7 @@
 <h3>Sliding Window</h3>
 <ul>
   <li>209. Minimum Size Subarray Sum</li>
+  <li>3. Longest Substring Without Repeating Characters</li>
 </ul>
 
 <h3>Hashmap</h3>

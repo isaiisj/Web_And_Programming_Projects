@@ -2,6 +2,7 @@
 <h3>Array/String</h3>
 <ul>
   <li>26. Remove Duplicates from Sorted Array</li>
+  <li>169. Majority Element</li>
 </ul>
 
 <h3>Two Pointers</h3>

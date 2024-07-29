@@ -38,6 +38,9 @@
 
 <h3>Binary Search</h3>
 <h3>Math</h3>
+<ul>
+  <li>9. Palindrome Number</li>
+</ul>
 <h4>Extra Problems</h4>
 <ul>
   <li>204. Count Primes</li>

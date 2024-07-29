@@ -37,6 +37,7 @@
 </ul>
 
 <h3>Binary Search</h3>
+
 <h3>Math</h3>
 <ul>
   <li>9. Palindrome Number</li>

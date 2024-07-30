@@ -3,6 +3,7 @@
 <ul>
   <li>26. Remove Duplicates from Sorted Array</li>
   <li>169. Majority Element</li>
+  <li>58. Length of Last Word</li>
 </ul>
 
 <h3>Two Pointers</h3>

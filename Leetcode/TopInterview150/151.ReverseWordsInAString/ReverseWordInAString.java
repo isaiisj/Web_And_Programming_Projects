@@ -40,18 +40,26 @@ public class ReverseWords {
     public static String reverseWord( String s){
         //Split the phrase by word in an array
         String[] word = s.split("\\s+"); //O(n)
+     
         //Create empty string
-        String reverse = ""; //O(1)
+        StringBuilder reverse = new StringBuilder(""); //O(1)
+     
         //Iterate word array starting from end to star
         for (int i = word.length - 1; i >= 0; i--) { //O(n)
             //Append each word in our empty string
-            reverse += word[i] + " ";  //O(n)
+            reverse.append(word[i]);//O(n)
+            reverse.append(" ");
         }
+     
         //Trim the reverse string
-        return reverse.trim(); //O(n)
-        
+        return reverse.toString().trim(); //O(n)
     }
 }
+
+/*
+If we use a string builder we avoid to use extra memory
+* */
+
 
 //Time complexity: n + 1 + 2n + n = 4n + 2 = n
 //Space complexity: O(n)

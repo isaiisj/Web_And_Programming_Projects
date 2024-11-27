@@ -44,7 +44,7 @@ public class ReverseWords {
         //Create empty string
         StringBuilder reverse = new StringBuilder(""); //O(1)
      
-        //Iterate word array starting from end to star
+        //Iterate word array starting from end to start
         for (int i = word.length - 1; i >= 0; i--) { //O(n)
             //Append each word in our empty string
             reverse.append(word[i]);//O(n)

@@ -5,6 +5,7 @@
   <li>169. Majority Element</li>
   <li>58. Length of Last Word</li>
   <li>151. Reverse Words in a String</li>
+  <li>345. Reverse Vowels of a String</li>
 </ul>
 
 <h3>Two Pointers</h3>
@@ -48,6 +49,5 @@
 <ul>
   <li>204. Count Primes</li>
   <li>509. Fibonacci Number</li>
-  <li>345. Reverse Vowels of a String</li>
 </ul>
 

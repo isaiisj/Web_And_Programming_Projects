@@ -48,5 +48,6 @@
 <ul>
   <li>204. Count Primes</li>
   <li>509. Fibonacci Number</li>
+  <li>345. Reverse Vowels of a String</li>
 </ul>
 

@@ -49,5 +49,6 @@
 <ul>
   <li>204. Count Primes</li>
   <li>509. Fibonacci Number</li>
+  <li>27. Remove Element</li>
 </ul>
 

@@ -7,8 +7,8 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 <p>The next emojis show in what language the problem is coded in and if there´s a digram:</p>
 <span>📝 Diagram</span>&nbsp;&nbssp;
 <span>🐍 Python</span>&nbsp;&nbssp;
-<span>♨️ Java</span>&nbsp;&nbssp;
-<span>｡🇯‌🇸‌ JavaScript</span>&nbsp;&nbssp;
+<span>♨️ Java</span>&nbsp;&nbsp;
+<span>｡🇯‌🇸‌ JavaScript</span>&nbsp;&nbsp;
 <br>
 
 <h2>Array/String</h2>

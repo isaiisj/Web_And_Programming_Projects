@@ -5,9 +5,10 @@ Plus I added other problems not included in the Top Interview 150 problems set b
 <p>You can find a diagram of each problem of how I thought the problem in my head written in something like
 python/pseudocode to be easy-readable that can give you a hint if you're stucked. (Still writing some diagrams)</p>
 <p>The next emojis show in what language the problem is coded in and if there´s a digram:</p>
-<span>📝 Diagram</span>&nbsp; <span>🐍 Python</span>
-<p>♨️ Java</p>
-<p>｡🇯‌🇸‌ JavaScript</p>
+<span>📝 Diagram</span>&nbsp;&nbssp;
+<span>🐍 Python</span>&nbsp;&nbssp;
+<span>♨️ Java</span>&nbsp;&nbssp;
+<span>｡🇯‌🇸‌ JavaScript</span>&nbsp;&nbssp;
 <br>
 
 <h2>Array/String</h2>

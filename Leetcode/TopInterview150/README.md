@@ -41,12 +41,19 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
   <li>219. Contains Duplicate II</li>
 </ul>
 
-<h3>Stack</h3>
+<h2>Stack</h2>
 <ul>
   <li>20. Valid Parentheses</li>
 </ul>
+<br>
 
-<h3>Binary Search</h3>
+<h2>Linked List</h2>
+<h4>Extra Problems</h4>
+<ul>
+  <li>876. Middle of the Linked List</li>
+</ul>
+
+<h2>Binary Search</h2>
 
 <h2>Math</h2>
 <ul>

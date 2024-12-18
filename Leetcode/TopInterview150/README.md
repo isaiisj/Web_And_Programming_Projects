@@ -5,6 +5,7 @@ Plus I added other problems not included in the Top Interview 150 problems set b
 <p>You can find a diagram of each problem of how I thought the problem in my head written in something like
 python/pseudocode to be easy-readable that can give you a hint if you're stucked. (Still writing some diagrams)</p>
 <br>
+
 <h2>Array/String</h2>
 <ul>
   <li>27. Remove Element</li>
@@ -14,6 +15,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
   <li>151. Reverse Words in a String</li>
   <li>345. Reverse Vowels of a String</li>
 </ul>
+<br>
 
 <h2>Two Pointers</h2>
 <ul>
@@ -26,12 +28,14 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 <ul>
     <li>283. Move Zeroes</li>
 </ul>
+<br>
 
 <h2>Sliding Window</h2>
 <ul>
   <li>209. Minimum Size Subarray Sum</li>
   <li>3. Longest Substring Without Repeating Characters</li>
 </ul>
+<br>
 
 <h3>Hashmap</h3>
 <ul>
@@ -40,6 +44,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
   <li>1. Two Sum</li>
   <li>219. Contains Duplicate II</li>
 </ul>
+<br>
 
 <h2>Stack</h2>
 <ul>
@@ -52,8 +57,10 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 <ul>
   <li>876. Middle of the Linked List</li>
 </ul>
+<br>
 
 <h2>Binary Search</h2>
+<br>
 
 <h2>Math</h2>
 <ul>

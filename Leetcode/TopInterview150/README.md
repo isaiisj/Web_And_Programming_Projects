@@ -37,7 +37,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 </ul>
 <br>
 
-<h3>Hashmap</h3>
+<h2>Hashmap</h2>
 <ul>
   <li>383. Ransom Note</li>
   <li>242. Valid Anagram</li>

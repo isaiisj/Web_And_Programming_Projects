@@ -1,6 +1,9 @@
 <h1>Top Interview 150</h1>
-<p>This is a repository with the problems you can find in the 150 interview questions of leetcode.
-Plus other problems not included in the 150 problems set but found in leetcode too.</p>
+<p>This is a repository with the problems you can find in the Top Interview 150 problems of leetcode to prepare for coding interviews.
+Plus I added other problems not included in the Top Interview 150 problems set but found in leetcode too.</p>
+<p>Each problem is made in one of these three main languages: Python, Java or JavaScript.</p>
+<p>You can find a diagram of each problem of how I thought the problem in my head written in something like
+python/pseudocode to be easy-readable that can give you a hint if you're stucked. (Still writing some diagrams)</p>
 <h2>Array/String</h2>
 <ul>
   <li>27. Remove Element</li>

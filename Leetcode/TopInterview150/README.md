@@ -48,7 +48,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 
 <h3>Binary Search</h3>
 
-<h3>Math</h3>
+<h2>Math</h2>
 <ul>
   <li>9. Palindrome Number</li>
 </ul>

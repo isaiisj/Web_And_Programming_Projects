@@ -4,7 +4,7 @@ Plus I added other problems not included in the Top Interview 150 problems set b
 <p>Each problem is made in one of these three main languages: Python, Java or JavaScript.</p>
 <p>You can find a diagram of each problem of how I thought the problem in my head written in something like
 python/pseudocode to be easy-readable that can give you a hint if you're stucked. (Still writing some diagrams)</p>
-<p>The next emojis show in what language the problem is coded in and if there´s a digram:</p>
+<p>The next emojis show what language the problem is coded in and if there´s a digram:</p>
 <span>📝 Diagram</span>&nbsp;&nbsp;
 <span>🐍 Python</span>&nbsp;&nbsp;
 <span>♨️ Java</span>&nbsp;&nbsp;

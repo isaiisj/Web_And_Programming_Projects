@@ -1,4 +1,6 @@
 <h1>Top Interview 150</h1>
+<p>This is a repository with the problems you can find in the 150 interview questions of leetcode.
+Plus other problems not included in the 150 problems set but found in leetcode too.</p>
 <h2>Array/String</h2>
 <ul>
   <li>27. Remove Element</li>

@@ -4,6 +4,7 @@ Plus I added other problems not included in the Top Interview 150 problems set b
 <p>Each problem is made in one of these three main languages: Python, Java or JavaScript.</p>
 <p>You can find a diagram of each problem of how I thought the problem in my head written in something like
 python/pseudocode to be easy-readable that can give you a hint if you're stucked. (Still writing some diagrams)</p>
+<br>
 <h2>Array/String</h2>
 <ul>
   <li>27. Remove Element</li>
@@ -14,7 +15,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
   <li>345. Reverse Vowels of a String</li>
 </ul>
 
-<h3>Two Pointers</h3>
+<h2>Two Pointers</h2>
 <ul>
   <li>125. Valid Palindrome</li>
   <li>392. Is Subsequence</li>
@@ -26,7 +27,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
     <li>283. Move Zeroes</li>
 </ul>
 
-<h3>Sliding Window</h3>
+<h2>Sliding Window</h2>
 <ul>
   <li>209. Minimum Size Subarray Sum</li>
   <li>3. Longest Substring Without Repeating Characters</li>

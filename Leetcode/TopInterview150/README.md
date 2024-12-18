@@ -31,7 +31,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 </ul>
 <h4>Extra Problems</h4>
 <ul>
-    <li>283. Move Zeroes</li>
+    <li>283. Move Zeroes 📝 🐍</li>
 </ul>
 <br>
 

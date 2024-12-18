@@ -1,5 +1,5 @@
 <h1>Top Interview 150</h1>
-<h3>Array/String</h3>
+<h2>Array/String</h2>
 <ul>
   <li>27. Remove Element</li>
   <li>26. Remove Duplicates from Sorted Array</li>

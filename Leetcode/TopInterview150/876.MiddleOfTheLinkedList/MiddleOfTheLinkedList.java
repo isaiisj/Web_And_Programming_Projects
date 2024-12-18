@@ -44,9 +44,11 @@ class Solution {
     public ListNode middleNode(ListNode head) {
         //If there are no nodes
         if(head == null) return null;
+     
         //Two pointers at the beginning
         ListNode slow = head;
         ListNode fast = head;
+     
         //While fast is not null
         //and fast.next is not null
         while(fast != null && fast.next != null){
@@ -54,6 +56,7 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
+     
         //Return the middle node
         return slow;
     }

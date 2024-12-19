@@ -14,7 +14,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 <h2>Array/String</h2>
 <ul>
   <li>27. Remove Element ♨️</li>
-  <li>26. Remove Duplicates from Sorted Array</li>
+  <li>26. Remove Duplicates from Sorted Array 🐍 ｡🇯‌🇸</li>
   <li>169. Majority Element</li>
   <li>58. Length of Last Word</li>
   <li>151. Reverse Words in a String</li>

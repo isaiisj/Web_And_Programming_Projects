@@ -44,7 +44,7 @@ The list is guaranteed to be sorted in ascending order.
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
     
-        //Current node to track values
+        //Temporary current pointer to track values
         ListNode temp = head;
         
         //While the node and next is not null

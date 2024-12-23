@@ -45,7 +45,7 @@ class Solution {
     public ListNode deleteDuplicates(ListNode head) {
     
         //Current node to track values
-        ListNode current = head;
+        ListNode temp = head;
         
         //While the node and next is not null
         while(temp != null && temp.next != null){

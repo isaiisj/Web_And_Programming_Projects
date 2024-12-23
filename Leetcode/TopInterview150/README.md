@@ -61,7 +61,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 <h4>Extra Problems</h4>
 <ul>
   <li>876. Middle of the Linked List 🐍 ♨️</li>
-  <li>83. Remove Duplicates from Sorted List ♨️</li>
+  <li>83. Remove Duplicates from Sorted List 🐍 ♨️</li>
 </ul>
 <br>
 

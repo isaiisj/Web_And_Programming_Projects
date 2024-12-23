@@ -62,3 +62,5 @@ class Solution {
         return head;
     }
 }
+
+//Time complexity: O(n)

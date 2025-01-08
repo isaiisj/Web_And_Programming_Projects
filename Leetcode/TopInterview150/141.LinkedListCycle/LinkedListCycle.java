@@ -66,6 +66,7 @@ public class Solution {
 
         while(fast != null && fast.next != null ){
 
+            // first move the pointers 1 step and 2 stpes respectively
             slow = slow.next;
             fast = fast.next.next;
 

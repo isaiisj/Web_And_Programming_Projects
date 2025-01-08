@@ -58,6 +58,9 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 <br>
 
 <h2>Linked List</h2>
+<ul>
+  <li>141. Linked List Cycle</li>
+</ul>
 <h4>Extra Problems</h4>
 <ul>
   <li>876. Middle of the Linked List 🐍 ♨️</li>

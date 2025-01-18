@@ -53,7 +53,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 
 <h2>Stack</h2>
 <ul>
-  <li>20. Valid Parentheses</li>
+  <li>20. Valid Parentheses 🐍 ♨️</li>
 </ul>
 <br>
 

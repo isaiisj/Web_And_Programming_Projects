@@ -45,6 +45,7 @@ class Solution {
                 nums[p2] = nums[p1];
                 nums[p1] = aux;
                 p1++;
+             
             }
           
             p2++;

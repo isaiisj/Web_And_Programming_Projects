@@ -49,6 +49,6 @@ class Solution(object):
             if complement in dict1:   #if we have the compliment in dict
                 return [i, dict1[complement]]
             else:
-                dict1[n] = i   #else add and go to the next number
+                dict1[n] = i   #else add number and  its index 
         
 #Time complexity: O(n)

@@ -46,7 +46,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 <ul>
   <li>383. Ransom Note 📝 🐍</li>
   <li>242. Valid Anagram</li>
-  <li>1. Two Sum</li>
+  <li>1. Two Sum 📝 🐍 ♨️</li>
   <li>219. Contains Duplicate II</li>
 </ul>
 <br>

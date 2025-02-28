@@ -33,3 +33,37 @@ Constraints:
 Only one valid answer exists.
 
 */
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+
+        // Create an empty hashmap
+        HashMap<Integer,Integer> mapNums = new HashMap<Integer,Integer>();
+
+        //Create an empty array to return
+        int[] indexArr = new int[2];
+
+        // Iterate the nums array
+        for(int i = 0; i < nums.length; i++){
+
+            // Get complement to equals target
+            int complement = target - nums[i];
+
+            // if the complement is in the hashmap
+            if (mapNums.containsKey(complement)){
+
+                //add the index of the number and complement to array
+                indexArr[0] = i;
+                indexArr[1] = mapNums.get(complement);
+            }
+            // if not add the numner and its index to hashmap
+            else{
+                mapNums.put(nums[i],i);
+            }
+        }
+
+        return indexArr;
+    }
+}
+
+// Time complexity: O(n)

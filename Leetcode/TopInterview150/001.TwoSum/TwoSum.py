@@ -41,14 +41,14 @@ class Solution(object):
         """
         
         #create an empty dict
-        dict1 = {}
+        dict_nums = {}
 
         #iterate trough the nums list
         for i,n in enumerate(nums):
             complement = target - n   #obtain complement to target
-            if complement in dict1:   #if we have the compliment in dict
-                return [i, dict1[complement]]
+            if complement in dict_nums:   #if we have the compliment in dict_nums
+                return [i, dict_nums[complement]]
             else:
-                dict1[n] = i   #else add number and  its index 
+                dict_nums[n] = i   #else add number and  its index array
         
 #Time complexity: O(n)

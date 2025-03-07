@@ -65,6 +65,7 @@ python/pseudocode to be easy-readable that can give you a hint if you're stucked
 <ul>
   <li>876. Middle of the Linked List 📝 🐍 ♨️</li>
   <li>83. Remove Duplicates from Sorted List 🐍 ♨️</li>
+  <li>206. Reverse Linked List</li>
 </ul>
 <br>
 

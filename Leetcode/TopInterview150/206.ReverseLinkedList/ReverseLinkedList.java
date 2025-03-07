@@ -49,6 +49,9 @@ The number of nodes in the list is the range [0, 5000].
 class Solution {
     public ListNode reverseList(ListNode head) {
 
+        // if head is null return empty list
+        if(head == null) return head;
+        
         // after points to head
         ListNode after = head;
         // before points in null

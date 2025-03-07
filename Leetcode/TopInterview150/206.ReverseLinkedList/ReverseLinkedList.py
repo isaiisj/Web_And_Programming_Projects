@@ -72,5 +72,11 @@ class Solution(object):
         head = before
 
         return head
+
+
+'''
+    Start:  head -> 1 -> 2 -> 3 - null
+    End: null <- 1 <- 2 <- 3 <- head
+'''
     
 # Timpe complexity: O(n)

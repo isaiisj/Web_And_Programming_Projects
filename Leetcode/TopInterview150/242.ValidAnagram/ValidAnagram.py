@@ -29,7 +29,8 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        #first lower the strings in case thery not
+     
+        #first lower the strings in case they are not
         s = s.lower()
         t = t.lower()
 

@@ -57,6 +57,7 @@ class Solution(object):
             else:
                 dict2[j] = 1
 
+        # Compare key and values
         if dict1 == dict2:
             return True
         

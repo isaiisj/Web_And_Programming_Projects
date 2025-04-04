@@ -30,18 +30,18 @@ class Solution(object):
         :rtype: bool
         """
      
-        #first lower the strings in case they are not
+        #First we check if we have the same amount of
+        #letters in each word
+        if len(s) != len(t):
+            return False
+
+        #first lower the strings in case thery not
         s = s.lower()
         t = t.lower()
 
         #build the hash maps
         dict1 = {}
         dict2 = {}
-
-        #First we check if we have the same amount of
-        #letters in each word
-        if len(dict1) != len(dict2):
-            return False
 
         #fill the dict1 with s
         for i in s:

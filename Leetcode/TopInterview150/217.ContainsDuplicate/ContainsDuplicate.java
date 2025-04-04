@@ -45,7 +45,7 @@ class Solution {
     public boolean containsDuplicate(int[] nums) {
 
         // Declare an empty hash set
-        Set set = new HashSet<Integer> ();
+        Set<Integer> set = new HashSet ();
 
         // Iterate through the array
         for (int i = 0; i < nums.length; i++){

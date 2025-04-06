@@ -29,16 +29,19 @@ class Solution(object):
         :rtype: bool
         """
 
-        s = list(s) #Make s a list
-        t = list(t) #Make t a list
+        # Make s and t a list
+        s = list(s) 
+        t = list(t) 
         i = 0 #pointer 1 looping s
         j = 0 #pointer 2 looping t
-        lenInp = len(s) #letters on s
-        count = 0 #should find the same nubmer as len(t)
+        # number of letters in s
+        lenInp = len(s) 
+        #should find the same nubmer as len(t)
+        count = 0 
         
         #While there are letters in s and t to search
         while i < len(s) and j < len(t):
-            #if they're equal
+            #if letters are equal
             if s[i] == t[j]:
                 i += 1 #move p1 to the right
                 j += 1 #move p2 to the right

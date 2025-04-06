@@ -29,11 +29,9 @@ class Solution(object):
         :rtype: bool
         """
 
-        # Make s and t a list
-        s = list(s) 
-        t = list(t) 
         i = 0 #pointer 1 looping s
         j = 0 #pointer 2 looping t
+        
         # number of letters in s
         lenInp = len(s) 
         #should find the same nubmer as len(t)

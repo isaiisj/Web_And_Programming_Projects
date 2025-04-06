@@ -52,3 +52,5 @@ class Solution(object):
             return False #not all the letters exist and not subset
 
         return True #otherwise it is subset 
+
+# Time complexity: O(n)

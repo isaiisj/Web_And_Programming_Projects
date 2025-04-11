@@ -34,7 +34,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-
+     
+        # if length of array is zero return 0
+        if len(nums) == 0:
+            return 0
+        
         # Turn array into hashet
         hashset = set(nums)
 

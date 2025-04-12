@@ -56,19 +56,11 @@ class Solution(object):
 
             #if the sum is grater than the target
             elif numbers[p1] + numbers[p2] > target:
-                #search the index of the grater and move it
-                if p1 > p2:
-                    p1 += 1
-                else:
-                    p2 -= 1
+                p2 -= 1
 
             #if the sum is less than the target
             elif numbers[p1] + numbers[p2] < target:
-                #search the index of the minor and move it
-                if p1 < p2:
-                    p1 += 1
-                else:
-                    p2 -= 1
+                p1 += 1
 
 '''
 Time complexity: O(n)

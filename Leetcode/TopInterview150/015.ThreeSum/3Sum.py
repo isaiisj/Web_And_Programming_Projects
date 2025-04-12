@@ -80,3 +80,5 @@ class Solution(object):
             triplets_list.append(list(element))
             
         return triplets_list
+
+# Time complexity: O(n^2)

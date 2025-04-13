@@ -63,7 +63,10 @@ class Solution(object):
                     # if so add to hashset a tuple and move two pointers
                     triplets_hashset.add((nums[i],nums[p1],nums[p2]))
                     p1 += 1
-                    p2 -= 1
+                    # if nums[p1-1] is the same as nums[p1] keep moving p1 until
+                    # we have another value to form different triplets
+                    while p1 < p2 and nums[p1] == nums[p1-1]:
+                        p1 += 1
 
                 # if it is grater move p2 to the left
                 elif nums[i] + nums[p1] + nums[p2] > 0:

@@ -1,0 +1,32 @@
+En una solución de consola realiza lo siguiente
+
+1. Desarolle una clase "Figura" que sirva de plantilla para generar
+ diferentes clases, considerando lo siguiente:
+    a. la clase Figura debe contener un construcotr que pida el número de lados (int noLados).
+    b. Todas las figuras tienen un método abstracto para calcular su área.
+    c. Todas las figuras tienen un método para leer el noLados.
+    c. noLados debe ser público.
+
+ 2. Desarrole 3 clases de Figuras::
+    a. Circulo: se construye con valor de radio (double r; noLados = 0).
+        i. La clase debe arrojar una excepción (RadioErrorException) si el valor del radio
+           es menor o igual a 0.
+       ii. Debe tener un método circunferencia de devuelva el valor de su circunferencia.
+
+    b. Rectángulo: Se construye con un valor de base y altura (double b,h; noLados = 4).
+    c. Cuadrado: Se construye con un valor de lado (double l; noLados = 4).
+
+ 3. Cree un programa en el cual:
+    a. Cree un objeto de tipo Rectángulo (b = 4, h = 3)
+    b. Cree un objeto de tipo Cuadrado (l = 5)
+    c. Cree un objeto de tipo Radio (r = proporcionado por el usuario mediante consola)
+        i. Si el usuario ingresa un valor no válodop (para cualquier caso) se debe indicar el
+           error particular, y asignar un valor por default (r = 10)
+    d. Guarde todas las figuras en una lista
+    e. Al final, en un ciclo de control (while, for), iterando sobre cada figura de la lista,
+       se debe imprimir:
+        i. Su tipo de figura, su número de lados y su área.
+       ii. Si es un circulo, además imprimir su circunferencia.
+
+    f. El programa no debe detenerse en error bajo ninguna circunstancia (valores ingresados por el usuario
+       a probar, -1, "asd", 10).

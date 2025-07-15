@@ -19,6 +19,10 @@ Explanation: other valid outputs could be [1, 0], [0, 2], [2, 0], [1, 2] or [2, 
 from typing import List
 
 def pair_sum_sorted(nums: List[int], target: int) -> List[int]:
+    # Assumes numbers is sorted in ascending order
+    # Use two pointers to find pair that sums to target
+
+    # Create the left pointer and the right pointer
     left: int = 0
     right: int = len(nums) - 1
 

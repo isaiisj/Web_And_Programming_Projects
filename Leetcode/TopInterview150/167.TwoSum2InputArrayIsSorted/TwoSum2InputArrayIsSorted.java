@@ -45,41 +45,39 @@ The tests are generated such that there is exactly one solution.
 
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
+        // Assumes numbers is sorted in ascending order
+        // Use two pointers to find pair that sums to target
 
-        // two pointers at the beginning and at the end
-        int p1 = 0;
-        int p2 = numbers.length - 1;
+        // Create the left pointer and the right pointer
+        int left = 0;
+        int right = numbers.length - 1;
 
-        // empty array to return idexes of numbers
-        int[] arr = new int[2];
+        // Iterate the array while left < right
+        while (left < right) {
 
-        // while p1 < p2 
-        while (p1 < p2){
+            // Store the current sum
+            int summ = numbers[left] + numbers[right];
 
-            // store current sum
-            int sum = numbers[p1] + numbers[p2];
-
-            // if sum equals target store indexes in the
-            // array and break the loop
-            if (sum == target){
-                arr[0] = p1+1;
-                arr[1] = p2+1;  
-                break;
+            // If the sum equals the target return the indexes plus one
+            if (summ == target){
+                return new int[] {left + 1, right + 1};
             }
 
-            // if it is less move p1
-            if (sum < target){
-                p1++;
+            // If the sum is less increase left pointer
+            if (summ < target){
+                left++;
             }
 
-            // if it is more move p2
-            if (sum > target){
-                p2--;
+            // If the sum is greater decrease right pointer
+            if (summ > target){
+                right --;
             }
         }
 
-        return arr;
+        // If there are no pairs, return an emprty array
+        return new int[] {};
     }
 }
+
 
 // Time complexity: O(n)

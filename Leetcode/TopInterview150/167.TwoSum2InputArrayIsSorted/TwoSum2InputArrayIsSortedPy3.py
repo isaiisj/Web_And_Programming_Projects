@@ -62,7 +62,7 @@ class Solution:
             if summ < target:
                 left += 1
 
-            # If the sum is more decrease the right pointer
+            # If the sum is greater decrease the right pointer
             if summ > target:
                 right -= 1
             

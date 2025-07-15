@@ -43,4 +43,5 @@ def pair_sum_sorted(nums: List[int], target: int) -> List[int]:
     # If in the end there are no pairs, return an empty array
     return []
 
+
 # Time complexity: O(n)

@@ -40,7 +40,7 @@ def pair_sum_sorted(nums: List[int], target: int) -> List[int]:
         if summ < target:
             left += 1
 
-        # If the sum is more decrease the right pointer
+        # If the sum is greater decrease the right pointer
         if summ > target:
             right -= 1
             

@@ -36,13 +36,16 @@ def is_palindrome_valid(s: str) -> bool:
         # keep decreasing the right pointer
         while left < right and not s[right].isalnum():
             right -= 1
-        
+
+        # If the items are equal keep moving the pointers
+        # any other way return false
         if s[left] == s[right]:
             left += 1
             right -= 1
         else:
             return False
 
+    # Return true if it is a palindrome
     return True
 
 

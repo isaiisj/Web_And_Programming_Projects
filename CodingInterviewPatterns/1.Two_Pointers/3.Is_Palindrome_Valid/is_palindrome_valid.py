@@ -27,6 +27,7 @@ def is_palindrome_valid(s: str) -> bool:
 
     # Iterate the array while left < right
     while left < right:
+        
         # While left < right and the item is not alphanumeric
         # keep increasing the left pointer
         while left < right and not s[left].isalnum():

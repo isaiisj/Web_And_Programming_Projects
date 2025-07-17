@@ -37,32 +37,39 @@ s consists only of printable ASCII characters.
 
 class Solution {
     public boolean isPalindrome(String s) {
-        StringBuilder palindrome = new StringBuilder(s);
-        //Remove non alphanumeric
-        for(int i = 0; i < palindrome.length(); i++){
-            if(!Character.isLetterOrDigit(palindrome.charAt(i))){
-                palindrome.delete(i,i+1);
-            }
-        }
-        //Lower and convert to String
-        String palindromeString = palindrome.toString().toLowerCase();
-        //Remove blank spaces
-        palindromeString = palindromeString.replaceAll("\\s","");
-        int p1 = 0;
-        int p2 = palindromeString.length() - 1;
-        //Iterate with two pointers until p1 >= p2
-        while (p1 < p2){
-            if(palindromeString.charAt(p1) == palindromeString.charAt(p2)){
-                p1++;
-                p2--;
 
-            }else {
+        // Create left and right pointer 
+        int left = 0;
+        int right = s.length() - 1;
+
+        // Iterate the string while left < right
+        while (left < right) {
+
+            // while left < right anf pointer item is non alphanumeric keep increasing
+            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
+                left++;
+            }
+
+            // while left < right and item is non alphanumeric keep decreasing
+            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
+                right--;
+            }
+
+            // If the left and right pointer items are the same 
+            // move both pointers other way return false
+            if (Character.toString(s.charAt(left)).toLowerCase().equals(Character.toString(s.charAt(right)).toLowerCase())){
+                left++;
+                right--;
+            }else{
                 return false;
             }
         }
+
+        // If it is palindrome return true
         return true;
+
     }
-    
 }
+
 
 // Time complexity: O(n)

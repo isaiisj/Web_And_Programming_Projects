@@ -5,3 +5,7 @@ A link to the repo of the bool https://github.com/ByteByteGoHq/coding-interview-
 
 
 A link to the byte byte go site for solving and submitting the problems https://bytebytego.com/exercises/coding-patterns
+
+<h2>List of problems by topic</h2>
+<h3>1. Two Pointers</h3>
+<h3>2. Hash Maps And Sets</h3>

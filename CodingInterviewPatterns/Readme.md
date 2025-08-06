@@ -16,3 +16,7 @@ A link to the byte byte go site for solving and submitting the problems https://
     <li>Shift Zeros to the End</li>
   </ol>
 <h3>Hash Maps And Sets</h3>
+<h3>Linked Lists</h3>
+<h3>Fast And Slow Pointers</h3>
+<h3>Sliding Window</h3>
+<h3>Binary Search</h3>

@@ -44,7 +44,7 @@ export function is_palindrome_valid(s) {
     // any other way return false
     if (s[left] == s[right]) {
         left++;
-        right--
+        right--;
     } else {
         return false
     }

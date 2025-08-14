@@ -24,7 +24,7 @@ class ListNode:
 def linked_list_reversal(head: ListNode) -> ListNode:
     
     # Create an extra pointer to head and to null
-    curr, prev: ListNode = head, None
+    curr, prev = head, None
 
     # While we haven't reached the end of the list
     while curr:

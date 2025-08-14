@@ -24,13 +24,13 @@ class ListNode:
 def linked_list_reversal(head: ListNode) -> ListNode:
     
     # Create an extra pointer to head and to null
-    curr, prev = head, None
+    curr, prev: ListNode = head, None
 
     # While we haven't reached the end of the list
     while curr:
 
         # Save the next node before we break the link
-        next_node = curr.next
+        next_node: ListNode = curr.next
         # Reverse the pointer of current node
         curr.next = prev
 

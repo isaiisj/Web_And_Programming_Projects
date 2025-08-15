@@ -10,7 +10,7 @@ A link to the byte byte go site for solving and submitting the problems https://
 <h3>Two Pointers</h3>
   <ol>
     <li>Pair Sum - Sorted</li>
-    <li></li>
+    <li>Triplet Sum</li>
     <li>Is Palindrome Valid</li>
     <li></li>
     <li>Shift Zeros to the End</li>

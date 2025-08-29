@@ -49,3 +49,6 @@ public class Main {
 
     }
 }
+
+
+// Time complexity: O(n)

@@ -40,3 +40,6 @@ def linked_list_reversal(head: ListNode) -> ListNode:
     
     # Return the new head which is the last node
     return prev
+
+
+# Time complexity: O(n)

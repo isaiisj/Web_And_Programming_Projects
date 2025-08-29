@@ -45,3 +45,6 @@ def largest_container(heights: List[int]) -> int:
         
     # Return max area of water
     return max_water
+
+
+# Time complexity: O(n)

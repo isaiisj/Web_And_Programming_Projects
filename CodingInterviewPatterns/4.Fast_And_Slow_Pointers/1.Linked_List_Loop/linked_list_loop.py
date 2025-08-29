@@ -36,3 +36,6 @@ def linked_list_loop(head: ListNode) -> bool:
     
     # Return false if there is no a loop
     return False
+
+    
+# Time complexity: O(n)
